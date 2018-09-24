@@ -1,4 +1,5 @@
 Time Series:
+
 PennSate Online Course:
 STAT510 Applied Time Series Analysis
 https://onlinecourses.science.psu.edu/stat510/node/47/
