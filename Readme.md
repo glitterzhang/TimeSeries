@@ -11,4 +11,9 @@ https://mybiostats.files.wordpress.com/2015/03/time-series-analysis-with-applica
 
 
 
-Mutivariate Time Series: https://www.slideshare.net/ns_solanki/multivariate-time-series-analysis-with-r-and-financial-applications
+Mutivariate Time Series Book:
+
+https://www.slideshare.net/ns_solanki/multivariate-time-series-analysis-with-r-and-financial-applications
+
+RNN-LTSMBlog:
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
