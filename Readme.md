@@ -4,6 +4,8 @@ PennSate Online Course:
 STAT510 Applied Time Series Analysis
 https://onlinecourses.science.psu.edu/stat510/node/47/
 
+http://www.lcs.poli.usp.br/~ablima/livros/Analysis%20of%20financial%20time%20series%20Tsay.pdf
+
 Book:
 https://otexts.org/fpp2/
 
