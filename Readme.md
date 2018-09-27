@@ -26,3 +26,9 @@ https://machinelearningmastery.com/convert-time-series-supervised-learning-probl
 
 Mutivariate time seriese_LSTM
 https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+
+
+
+Thetha method
+
+https://robjhyndman.com/papers/Theta.pdf
