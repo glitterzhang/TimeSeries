@@ -37,3 +37,7 @@ https://robjhyndman.com/papers/Theta.pdf
 Difference:
 
 https://stats.stackexchange.com/questions/324537/how-can-differencing-in-an-arima-model-be-implicit-instead-of-explicit
+
+Bayesian MCMC
+
+https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/
