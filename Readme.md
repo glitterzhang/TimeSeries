@@ -41,3 +41,5 @@ https://stats.stackexchange.com/questions/324537/how-can-differencing-in-an-arim
 Bayesian MCMC
 
 https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/
+
+http://faculty.chicagobooth.edu/ruey.tsay/teaching/uts/lec13-08.pdf
