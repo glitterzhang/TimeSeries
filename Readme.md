@@ -38,8 +38,18 @@ Difference:
 
 https://stats.stackexchange.com/questions/324537/how-can-differencing-in-an-arima-model-be-implicit-instead-of-explicit
 
-Bayesian MCMC
+Bayesian Structural Time Series- MCMC:
 
 https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/
-
 http://faculty.chicagobooth.edu/ruey.tsay/teaching/uts/lec13-08.pdf
+http://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html
+
+Bayesian Inference:
+
+https://onlinecourses.science.psu.edu/stat509/node/78/
+
+MCMC Convergence Diagnostics:
+http://astrostatistics.psu.edu/RLectures/diagnosticsMCMC.pdf
+https://spia.uga.edu/faculty_pages/rbakker/bayes/day6.pdf
+https://theoreticalecology.wordpress.com/2011/12/09/mcmc-chain-analysis-and-convergence-diagnostics-with-coda-in-r/
+
