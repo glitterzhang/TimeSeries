@@ -48,8 +48,11 @@ Bayesian Inference:
 
 https://onlinecourses.science.psu.edu/stat509/node/78/
 
-MCMC Convergence Diagnostics:
+Markov Chain Monte Carlo (MCMC) Convergence diagnostics:
+
+https://www.statlect.com/fundamentals-of-statistics/Markov-Chain-Monte-Carlo-diagnostics#hid10
 http://astrostatistics.psu.edu/RLectures/diagnosticsMCMC.pdf
 https://spia.uga.edu/faculty_pages/rbakker/bayes/day6.pdf
 https://theoreticalecology.wordpress.com/2011/12/09/mcmc-chain-analysis-and-convergence-diagnostics-with-coda-in-r/
+
 
