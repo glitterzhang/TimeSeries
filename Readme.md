@@ -44,9 +44,13 @@ https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/
 http://faculty.chicagobooth.edu/ruey.tsay/teaching/uts/lec13-08.pdf
 http://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html
 
+http://www.stat.umn.edu/geyer/s12/5102/notes/mcmc.pdf
+
 Bayesian Inference:
 
 https://onlinecourses.science.psu.edu/stat509/node/78/
+
+
 
 Markov Chain Monte Carlo (MCMC) Convergence diagnostics:
 
